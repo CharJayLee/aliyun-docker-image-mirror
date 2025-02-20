@@ -7,3 +7,6 @@ minio/minio:latest
 grafana/grafana:latest
 volcanosh/vc-dashboard-frontend:v0.1.0
 volcanosh/vc-dashboard-backend:v0.1.0
+docker.io/volcanosh/vc-webhook-manager:v1.11.0
+docker.io/volcanosh/vc-controller-manager:v1.11.0
+docker.io/volcanosh/vc-scheduler:v1.11.0
