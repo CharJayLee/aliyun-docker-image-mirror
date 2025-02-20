@@ -10,3 +10,4 @@ volcanosh/vc-dashboard-backend:v0.1.0
 docker.io/volcanosh/vc-webhook-manager:v1.11.0
 docker.io/volcanosh/vc-controller-manager:v1.11.0
 docker.io/volcanosh/vc-scheduler:v1.11.0
+docker.io/volcanosh/kube-state-metrics:v2.0.0-beta
